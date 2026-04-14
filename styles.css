@@ -38,20 +38,6 @@ nav a {
   text-decoration: none;
 }
 
-/* Hero */
-/* .hero {
-  height: 90vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background: #f4f4f4;
-  text-align: center;
-}
-
-.hero span {
-  color: #007BFF;
-} */
 
 .btn {
   display: inline-block;
